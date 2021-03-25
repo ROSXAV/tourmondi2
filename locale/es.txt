@@ -1,0 +1,46 @@
+#: locale=es
+
+## Tour
+
+### Description
+
+### Título
+tour.name = Sin Título 2
+
+## Skin
+
+### Botón
+Button_72E8B584_609F_F849_41AC_AD5B0D5D751B.label = MAPA
+
+## Media
+
+### Título
+map_729BA4E2_6060_79C8_41C9_498479854400.label = Mondi-03222021_151553
+panorama_69077575_6061_98C8_41CA_85557BA3798C.label = Mondi-3
+panorama_69078674_6061_B8C8_41D2_46CEBAA2080A.label = Mondi-7
+panorama_690786CC_6061_99D8_41B4_C6DDAA4EACBD.label = Mondi-11
+panorama_69078D8A_6061_A858_41D5_3696E03DA02B.label = Mondi-5
+panorama_6907A193_6061_B848_41CE_C0C9429716B5.label = Mondi-6
+panorama_6907BEB6_6061_A848_41C3_6DD2418B8F83.label = Mondi-9
+panorama_6907C2C2_6061_99C8_4170_002ADBE0F190.label = Mondi-10
+panorama_6907C982_6061_A848_41CB_EE627D7E94DF.label = Mondi-4
+panorama_6907FAA1_6061_A848_41CE_34F9AD7B0F90.label = Mondi-8
+panorama_69EC7A2E_6060_6858_41B6_89379D07D5E5.label = Mondi-1
+panorama_6EA6559E_6061_9878_41C7_ED64826BB648.label = Introduccion 
+video_7301EFAF_6735_F327_41B9_FEF786222E53.label = IMG_0428
+video_7417B850_66BB_19BD_41D3_E6E07E249609.label = Alan kg
+
+## Ventana
+
+### Cuerpo
+htmlText_697E5AD0_6669_1EBD_41D5_D1D86546876C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Rodillos de etiquetado</SPAN></DIV></BODY></HTML></div>
+htmlText_74761536_667B_EBE5_41CB_F2D5A7CDE132.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Caja contenedora de residuos</SPAN></DIV></BODY></HTML></div>
+htmlText_749EDB66_667B_1E65_41C0_E4CFA2953A86.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Dosificadora de costales</SPAN></DIV></BODY></HTML></div>
+htmlText_74A2DE31_666B_19FF_4183_20B4B7769119.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Modulo de impreción</SPAN></DIV></BODY></HTML></div>
+htmlText_757E4E78_666F_166D_41D5_0465AE140208.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Modulo de cosido de costales</SPAN></DIV></BODY></HTML></div>
+htmlText_778F1629_6679_E9EF_41D6_7EAFCEB31F84.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Cuarto electrico </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Tableros Electricos</SPAN></DIV></BODY></HTML></div>
+
+## Acción
+
+### URL
+PopupWebFrameBehaviour_725804C6_674B_D559_41D4_DE67471C8113.url = //www.youtube.com/embed/HX8F3fDUYhM
